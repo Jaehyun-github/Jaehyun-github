@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=slice)
-![header](https://capsule-render.vercel.app/api?text=Jaehyun-Park&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=slice text=Jaehyun-Park&fontSize=40)
 
