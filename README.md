@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=slice&text=Jaehyun-Park&fontSize=50&height=200&desc=jaehyun-github&color=201818&fontColor=ffffff&fontAlign=75&fontAlignY=20&descAlign=85&descAlignY=35&rotate=13)
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=000000"/></a>
