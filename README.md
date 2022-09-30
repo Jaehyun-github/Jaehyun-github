@@ -18,8 +18,5 @@
 <a href="https://www.instagram.com/jh._.stinger/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/jh._.stinger/"/></a>
 <div>
 
-![](https://raw.githubusercontent.com/jaehyun-github/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/jaehyun-github/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-![](https://raw.githubusercontent.com/jaehyun-github/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/jaehyun-github/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://github.com/jaehyun-github/github-stats-transparent/blob/output/generated/overview.svg)
+![](https://github.com/jaehyun-github/github-stats-transparent/blob/output/generated/languages.svg)
