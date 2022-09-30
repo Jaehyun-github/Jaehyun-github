@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?text=Jaehyun-Park&fontSize=20&rotate=-30)
+![header](https://capsule-render.vercel.app/api?type=slice)
 ![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontAlignY=20)
