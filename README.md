@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=slice&text=Jaehyun-Park&fontSize=50&height=200&desc=jaehyun-github&color=black&fontColor=ffffff&fontAlign=75&fontAlignY=20&descAlign=75&descAlignY=65&rotate=15)
+![header](https://capsule-render.vercel.app/api?type=slice&text=Jaehyun-Park&fontSize=50&height=200&desc=jaehyun-github&color=black&fontColor=ffffff&fontAlign=75&fontAlignY=20&descAlign=75&descAlignY=30&rotate=15)
 
