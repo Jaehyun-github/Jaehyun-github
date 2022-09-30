@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Jaehyun-github/Jaehyun-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontSize=20&rotate=-30)
+![header](https://capsule-render.vercel.app/api?text=Jaehyun-Park&fontSize=20&rotate=-30)
