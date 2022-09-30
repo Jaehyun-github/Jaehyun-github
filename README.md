@@ -5,7 +5,7 @@
 <br><br>
 
 
-  <h3 align="center">🛠 Stack 🛠<h3>
+  <h3 align="center">🛠 Tech Stack 🛠<h3>
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/></a>
@@ -20,3 +20,4 @@
 
 ![](https://github.com/jaehyun-github/github-stats-transparent/blob/output/generated/overview.svg)
 ![](https://github.com/jaehyun-github/github-stats-transparent/blob/output/generated/languages.svg)
+
