@@ -18,7 +18,7 @@
 
  <h3 align="center">👉 About Me 👈</h3>
 
-<a href="https://www.instagram.com/jh._.stinger/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/jh._.stinger/"/></a>
+<a href="mailto:pjh950117@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=badge&logo=Gmail&logoColor=white&link=mailto:pjh950117@gmail.com"/></a>
 
 
 ![](https://github.com/jaehyun-github/github-stats-transparent/blob/output/generated/overview.svg)
