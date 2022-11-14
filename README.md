@@ -19,6 +19,7 @@
  <h3 align="center">👉 About Me 👈</h3>
 
 <a href="mailto:pjh950117@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=badge&logo=Gmail&logoColor=white&link=mailto:pjh950117@gmail.com"/></a>
+<a href="https://velog.io/@pjh950117"><img src="https://img.shields.io/badge/Velog-20C997?style=badge&logo=Velog&logoColor=white&link=https://velog.io/@pjh950117"/></a>
 
 
 ![](https://github.com/jaehyun-github/github-stats-transparent/blob/output/generated/overview.svg)
